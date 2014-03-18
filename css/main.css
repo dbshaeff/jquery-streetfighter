@@ -9,14 +9,8 @@ body {
   padding-left: 100px;
   height: 500px;
 }
-
-.main p {
-	text-align: center;
-	font-style: italic;
-	font-size: 40px;
-}
  
-.hadouken, .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
+.hadouken, .ryu-ready, .ryu-still, .ryu-throwing {
   background-repeat: no-repeat;
 } 
   
@@ -35,12 +29,12 @@ body {
   float: left;
 }
  
-.ryu-ready, .ryu-still, .ryu-throwing, .ryu-class, .ryu-cool {
+.ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
   width: 659px;
   height: 494px;
 }
  
-.ryu-ready, .ryu-throwing, .ryu-cool {
+.ryu-ready, .ryu-throwing {
   display: none;
 } 
  

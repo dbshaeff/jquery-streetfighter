@@ -10,12 +10,6 @@ body {
   height: 500px;
 }
 
-.main p {
- text-align: center;
- font-size: 28px;
- font-family: Garamond;
-} 
-
 .hadouken, .ryu-ready, .ryu-still, .ryu-throwing {
   background-repeat: no-repeat;
 } 
